@@ -1,0 +1,8 @@
+{
+    "parent_dir": "embeddings/",
+    "graphNames": ["wiki", "facebook", "ppi", "lastfm", "physics", "AS", "BA-5", "BA-10", "ER-2", "ER-4", "enron", "BTER-arbitrary", "BTER-from-BA"],
+    "algNames": ["pca", "HOPE", "lap", "n2v", "sdne"]
+    "d_s": [2, 10, 20],
+    "override": false,
+    "subset": true
+}
